@@ -1,0 +1,32 @@
+*{
+    section:target{
+        display: block;
+    }
+    body{
+       text-align:left;
+        background-color:green;
+    }
+    li{
+        overflow: hidden;
+        
+    }
+    .var{
+        background-color: antiquewhite;
+        text-align: center;
+    }
+    .les{
+        background-color: green
+        text-align: center;
+    }
+    .nav{
+        background-color: beige;
+        text-align: center;
+    }
+    .login{
+        background-color: purple;
+    }
+    h1{
+        color: blue;
+    }
+    
+}
